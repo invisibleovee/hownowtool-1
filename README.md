@@ -158,8 +158,8 @@
 <script type="text/javascript" language="javascript">
 /********************************************************************************************************
 * Date : 31/5/2009
-* Development : http://ithelpdeskgroup.blogspot.com
-* Author : Ad
+* Development : http://hownowblog.blogspot.com
+* Author : Ovee
 ********************************************************************************************************/
 var sourceCodeTextareaObj = "";
 var sourceCodeFormattedTextareaObj = "";
